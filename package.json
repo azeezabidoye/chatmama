@@ -1,0 +1,14 @@
+{
+  "name": "chatmax",
+  "version": "1.0.0",
+  "description": "Modal popup UI widget",
+  "main": "index.js",
+  "scripts": {
+    "start": "cp -R src/assets dist/assets && parcel serve src/index.html"
+  },
+  "author": "Azeez Abidoye",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
